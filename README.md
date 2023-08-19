@@ -1,4 +1,4 @@
 # DevOps
 DevOps
 
-![Kubernetes Cluster Diagram](devops/DevOps.png)
+![Kubernetes Cluster Diagram](DevOps/DevOps.png)
