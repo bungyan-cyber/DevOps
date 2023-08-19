@@ -1,2 +1,2 @@
-![Kubernetes Cluster Diagram](DevOps/DevOps.png)
+![Kubernetes Cluster Diagram](DevOps.png)
 
